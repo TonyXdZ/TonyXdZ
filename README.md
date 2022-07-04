@@ -4,11 +4,11 @@ Hi 👋 My name is Tony Ayoub
 Web developer
 -------------
 
-Founder and Solo developer behind ⚡Merssis.com⚡ the Algerian C2C e-commerce website
+Founder and Solo developer behind ⚡Merssis.com⚡ the Algerian C2C e-commerce website (WIP)
 
 *   🌍  I'm based in Annaba, Algeria
 *   ✉️  You can contact me at [tony23dz@gmail.com](mailto:tony23dz@gmail.com)
-*   🚀  I'm currently working on [Merssis](http://www.merssis.com)
+*   🚀  I'm currently working on Merssis
 *   🤝  I'm open to collaborating on any FastApi / Flask / Django projects
 </br>
 
