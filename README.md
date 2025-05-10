@@ -24,7 +24,7 @@
 ###
 
 <p align="left">I'm Ayoub from Algeria<br><br>- 📚 I'm currently learning FastAPI<br>- ⚡ In my free time I make games<br>
-- 🔭 I’m currently working on [flet-base](https://github.com/TonyXdZ/flet-base)
+- 🔭 I’m currently working on ![flet-base](https://github.com/TonyXdZ/flet-base)
 
 </p>
 
